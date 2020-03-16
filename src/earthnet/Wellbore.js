@@ -99,7 +99,7 @@ const Wellbore = ({ wellsList, logsList, formationsList }) => {
             <Grid item md={4}>
               <Portlet>
                 <PortletHeader className={classes.header}>
-                  <PortletLabel title="Title" />
+                  <PortletLabel title="Wells" />
                   <PortletToolbar>
                     <MoreVertIcon />
                   </PortletToolbar>
@@ -112,7 +112,7 @@ const Wellbore = ({ wellsList, logsList, formationsList }) => {
             <Grid item xs={4}>
               <Portlet>
                 <PortletHeader className={classes.header}>
-                  <PortletLabel title="Title" />
+                  <PortletLabel title="Logs" />
                   <PortletToolbar>
                     <MoreVertIcon />
                   </PortletToolbar>
@@ -126,7 +126,7 @@ const Wellbore = ({ wellsList, logsList, formationsList }) => {
             <Grid item xs={4}>
               <Portlet>
                 <PortletHeader className={classes.header}>
-                  <PortletLabel title="Title" />
+                  <PortletLabel title="Formations" />
                   <PortletToolbar>
                     <MoreVertIcon />
                   </PortletToolbar>
