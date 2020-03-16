@@ -1,0 +1,3 @@
+export const SET_WELLS_LIST = 'SET_WELLS_LIST';
+export const SET_LOGS_LIST = 'SET_LOGS_LIST';
+export const SET_FORMATIONS_LIST = 'SET_FORMATIONS_LIST';
